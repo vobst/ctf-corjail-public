@@ -1,0 +1,13 @@
+build/
+*.o
+*.a
+vmlinux
+*.dat
+*.bk
+sploit
+sploit_test
+*.so*
+gadgets.txt
+env/
+cppcheck-build-dir/
+infer-out/
