@@ -1,10 +1,10 @@
 # CTF Corjail
 
-CTF [[](https://2022.cor.team/)]
+[CTF](https://2022.cor.team/)
 
-Challenge [[](https://github.com/Crusaders-of-Rust/corCTF-2022-public-challenge-archive/tree/master/pwn/corjail)]
+[Challenge](https://github.com/Crusaders-of-Rust/corCTF-2022-public-challenge-archive/tree/master/pwn/corjail)
 
-Public release of my solution for the Corjail challenge of corCTF 2022. This repository is best used together with the public release of my kernel debugging setup [[](https://github.com/vobst/like-dbg-fork-public)].
+Public release of my solution for the Corjail challenge of corCTF 2022. This repository is best used together with the public release of my [kernel debugging setup](https://github.com/vobst/like-dbg-fork-public). Also read the accompanying [blog posts](https://blog.eb9f.de/2023/07/20/Linux-S1-E1.html).
 
 ## Building
 
